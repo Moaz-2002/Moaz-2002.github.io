@@ -36,7 +36,7 @@ Feel free to explore the files to understand how the portfolio was built.
 ## 🛠️ How to Use
 
 To view this portfolio:
-1. Visit the [Live Site](#) (link to be updated).
+1. Visit my Portfolio ([Live Site](https://moaz-2002.github.io/))
 2. Or, clone this repository to your local machine:
    ```bash
    git clone https://github.com/username/portfolio.git
